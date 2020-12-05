@@ -1,0 +1,16 @@
+{
+  "name": "birthyear-isleapyear",
+  "version": "1.0.0",
+  "description": "This is a CLI app that checks whether one's birth year is a leap year, or not",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhil Movva",
+  "license": "ISC"
+}
